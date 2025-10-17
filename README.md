@@ -10,6 +10,8 @@
 - *Izreži* označeno v odložišče: Ctrl+X
 - *Prilepi* vsebino odložišča: Ctrl+V
 - *Dodaj* še en cursor: Alt + Levi klik 
+- *Izbriši* trenutno vrstico: Ctrl + Shift + K
+- *Skok* na začetek dokumenta: Ctrl + Home
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
